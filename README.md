@@ -19,5 +19,5 @@ La solución se basa en la estrategia de particionamiento de **Lomuto**, utiliza
 * Robert Sedgewick and Kevin Wayne. *Section 2.1 - Elementary Sorts in Algorithms*. Fourth Edition, 2011.
 
 ---
-**Presentado por:** [Tu Nombre Completo]  
+**Presentado por:** Juan Santiago Vega Camargo
 **Institución:** Universidad Piloto de Colombia
